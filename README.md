@@ -10,7 +10,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
        <!-- <h3>🤝 Connect with me</h3> -->
       <p>
         📫 <strong>Email:</strong>
